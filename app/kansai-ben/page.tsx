@@ -81,13 +81,7 @@ export default function KansaiBen() {
           And honestly… it just sounds cool 😌
         </p>
 
-        <video
-  className="w-full md:w-[700px] h-[300px] md:h-[400px] rounded-2xl mx-auto"
-  controls
->
-  <source src="/video-kansai.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HuI5oOD9lXE" title="A-Channel - YUUKO AND HER KANSAI-BEN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </section>
 
       {/* CLOSING */}
