@@ -83,7 +83,7 @@ export default function KansaiBen() {
 
         <iframe
           className="w-full md:w-[700px] h-[300px] md:h-[400px] rounded-2xl mx-auto"
-          src="https://www.youtube.com/embed/5kRZlC1tK8Q"
+          src="https://youtu.be/7SAacOQSCBE?si=EN57A_XsRt5UKOET"
           allowFullScreen
         ></iframe>
       </section>
