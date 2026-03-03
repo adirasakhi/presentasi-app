@@ -81,7 +81,16 @@ export default function KansaiBen() {
           And honestly… it just sounds cool 😌
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/HuI5oOD9lXE" title="A-Channel - YUUKO AND HER KANSAI-BEN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div className="flex justify-center">
+  <iframe
+    className="w-full md:w-[700px] h-[300px] md:h-[400px] rounded-2xl"
+    src="https://www.youtube.com/embed/HuI5oOD9lXE"
+    title="Kansai Ben Example"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
       </section>
 
       {/* CLOSING */}
